@@ -42,6 +42,7 @@ class MainActivityViewModel @Inject constructor(
                     showToast(e.message.toString())
                 }
                 .collect { result ->
+                    hideLoading()
                     when(result){
                         is BaseResult.Success -> {
                             _todos.value = result.data as MutableList<TodoEntity>

@@ -26,6 +26,7 @@ class TodoRepositoryImpl constructor(
                 if (result is BaseResult.Success) {
                     saveToLocal(result.data)
                 }
+                emit(result)
             }
         }
     }
