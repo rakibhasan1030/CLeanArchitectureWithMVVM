@@ -53,4 +53,7 @@ Architecture means the overall design of the project. It's the organization of t
 
 ## - Current App's Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
+<br><br><br><br><br>
+<a href="https://www.buymeacoffee.com/rakibhasan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rakibhasan&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 
