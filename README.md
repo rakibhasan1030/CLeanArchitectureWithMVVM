@@ -2,7 +2,7 @@
  <center><img width="100%%"  src="images/clean_architecture_image.webp"></a></center>
 </p>
 
-# Android Clean Architecture 
+# Clean Architecture (Android)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 
 This is a sample movie list  Android application 📱 built to demonstrate use of *Clean Architecture* tools. Dedicated to all Android Developers with ❤️. 
