@@ -31,7 +31,9 @@ It simply loads list todos from [{JSON} Placeholder](https://jsonplaceholder.typ
 
 ## - Clean Architecture
 
-<center><img width="200" height="200" src="https://koenig-media.raywenderlich.com/uploads/2019/06/Android-Clean-Architecture.png"><p>- photo by: <a href="https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started">raywenderlich</a></p></center>
+<p align="center">
+ <center><img width="100%%"  src="images/clean_architecture_diagram.png"></a></center>
+</p>
 
 ### What is clean architecture?
 Architecture means the overall design of the project. It's the organization of the code into classes or files or components or modules. And it's how all these groups of code relate to each other. The architecture defines where the application performs its core functionality and how that functionality interacts with things like the database and the user interface.
