@@ -9,7 +9,7 @@ This is a sample movie list  Android application 📱 built to demonstrate use o
 
 ***You can Install and test latest app from below 👇***
 
-[![Clean Architecture App](https://img.shields.io/badge/CleanArchitecture🍲-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/happysingh23828/Android-Clean-Architecture/raw/master/files/clean-arc.apk)
+[![Clean Architecture App](https://img.shields.io/badge/CleanArchitecture🍲-APK-red.svg?style=for-the-badge&logo=android)]([https://github.com/happysingh23828/Android-Clean-Architecture/raw/master/files/clean-arc.apk](https://github.com/rakibhasan1030/Clean-Architecture-Android/blob/master/files/Todos.apk))
 
 ## - About
 It simply loads list todos from [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) and stores it in persistence storage (i.e. Room Database). Todos list will be always loaded from local database. Remote data (from API) and Local data is always synchronized.
