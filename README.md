@@ -5,11 +5,11 @@
 # Clean Architecture (Android)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 
-This is a sample movie list  Android application 📱 built to demonstrate use of *Clean Architecture* tools. Dedicated to all Android Developers with ❤️. 
+This is a sample todo list  Android application 📱 built to demonstrate use of *Clean Architecture* tools. Dedicated to all Android Developers with ❤️. 
 
 ***You can Install and test latest app from below 👇***
 
-[![Clean Architecture App](https://img.shields.io/badge/CleanArchitecture🍲-APK-red.svg?style=for-the-badge&logo=android)]([https://github.com/happysingh23828/Android-Clean-Architecture/raw/master/files/clean-arc.apk](https://github.com/rakibhasan1030/Clean-Architecture-Android/blob/master/files/Todos.apk))
+[![Clean Architecture App](https://img.shields.io/badge/CleanArchitecture🍲-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/rakibhasan1030/Clean-Architecture-Android/raw/master/files/Todos.apk)
 
 ## - About
 It simply loads list todos from [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) and stores it in persistence storage (i.e. Room Database). Todos list will be always loaded from local database. Remote data (from API) and Local data is always synchronized.
@@ -55,5 +55,3 @@ Architecture means the overall design of the project. It's the organization of t
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
 <br><br><br><br><br>
 <a href="https://www.buymeacoffee.com/rakibhasan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rakibhasan&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-
